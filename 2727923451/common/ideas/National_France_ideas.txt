@@ -30,6 +30,17 @@ ideas = {
 
 		}
 
+
+		NFA_marseille_spirit = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea NFA_marseille_spirit" }
+			
+			modifier = {
+				recruitable_population = 0.020
+			}
+
+			picture = 
+
+		}
 		NFA_ = {
 			on_add = { log = "[GetDateText]: [Root.GetName]: add idea NFA_indebted_to_Germany" }
 			
