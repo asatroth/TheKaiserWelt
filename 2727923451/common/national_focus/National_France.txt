@@ -1,6 +1,8 @@
 ###########################
 # National France Focus Tree
-# By Edouard_Saladier, BlueFoxy, Lucina, Battleship_Richelieu, Nijato, The Alpha Dog, Rnk, DragonMaggot and Thomahawk2k
+# Original by Edouard_Saladier, BlueFoxy, Lucina, Battleship_Richelieu, Nijato, The Alpha Dog, Rnk, DragonMaggot and Thomahawk2k
+###########################
+# Kaiserwelt version by ntfunk
 ###########################
 
 focus_tree = {

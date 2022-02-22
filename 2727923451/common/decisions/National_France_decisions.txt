@@ -1,6 +1,9 @@
 ###########################
 # National France Decisions
 ###########################
+# Managed by ntfunk / asatroth
+###########################
+# Last edited 02/22/22
 
 NFA_seize_morocco_decisions = {
 	NFA_seize_spanish_morocco = {

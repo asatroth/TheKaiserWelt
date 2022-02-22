@@ -1,8 +1,14 @@
 ﻿###########################
 # Nationalist France Events
+# Managed by ntfunk / asatroth
+###########################
+
+
 add_namespace = nfa
 
 
 country_event = {
+
+
 }
 
